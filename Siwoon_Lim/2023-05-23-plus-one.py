@@ -1,5 +1,5 @@
 # Time complexity: O(n + m) where 'n' is the length of the input list 'digits' and 'm' is the number of digits in the
-# resulting number after adding one Space complexity: O(n)
+# resulting number after adding one Space complexity: O(n).
 
 class Solution(object):
     def plusOne(self, digits):

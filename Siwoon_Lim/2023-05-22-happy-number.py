@@ -1,5 +1,5 @@
-# Time complexity: O(n * m)
-# space complexity: O(n)
+# Time complexity: O(n * m).
+# space complexity: O(n).
 
 class Solution(object):
     def isHappy(self, n):

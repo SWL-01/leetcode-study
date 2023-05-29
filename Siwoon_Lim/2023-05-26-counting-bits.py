@@ -1,5 +1,5 @@
-# Time complexity: O(n)
-# Space complexity: O(n)
+# Time complexity: O(n).
+# Space complexity: O(n).
 
 class Solution(object):
     def countBits(self, n):

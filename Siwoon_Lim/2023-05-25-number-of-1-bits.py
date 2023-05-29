@@ -1,5 +1,5 @@
-# Time complexity: O(log n) -> depending on the number of bits 'n'
-# Space complexity: O(1)
+# Time complexity: O(log n) -> depending on the number of bits 'n'.
+# Space complexity: O(1).
 
 class Solution(object):
     def hammingWeight(self, n):
