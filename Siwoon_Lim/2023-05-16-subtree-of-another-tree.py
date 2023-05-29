@@ -18,10 +18,8 @@ class Solution(object):
 
         if not root:
             return False
-
         elif self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot):
             return True
-
         # we haven't found the subRoot tree in the current root tree. if it is same tree, return true,
         # if not return false.
         else:

@@ -14,7 +14,7 @@ class Solution(object):
         n2 = 2
 
         # A loop that iterates n-2 times
-        for i in range(3, n + 1):
+        for i in range(2, n):
             ways = n1 + n2
             n1 = n2
             n2 = ways
